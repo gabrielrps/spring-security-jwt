@@ -3,4 +3,4 @@
 Spring Boot Application with Spring Security and JWT
 MySQL DataBase
 
-The application focus on security.
+The application focus is on security.
